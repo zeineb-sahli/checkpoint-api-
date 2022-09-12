@@ -1,0 +1,13 @@
+.user {
+
+    border: 1px solid grey;
+    box-shadow: '1px 2px 2px grey';
+    width: 400px
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+}
